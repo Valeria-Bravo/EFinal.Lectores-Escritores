@@ -38,3 +38,17 @@ Cuando el lector se acerca al recurso, el gestor verifica si puede tomar el recu
 
 El lector deberá obtener acceso al gestor a través de una operación en el semáforo, en donde se podrá verificar tanto el ingreso de los lectores y su salida con dos operaciones llamadas “openLector” y “closeLector” esta captura del código se pueden ver en la carpeta imagenesLC (codigoN1.png), de igual manera sucede con los escritores, para poder monitorear sus acciones a través del gestor, se creó dos operaciones llamadas “openEscritor” y “closeEscritor” (codigoN2.png) y los siguientes lectores simplemente incrementan su contador en su respectivo proceso (codigoN3.png). A medida que los lectores salen y culminan su proceso, se decrementará dicho contador(codigoN4.png) y el último realiza la operación en el semáforo, para poder permitir que un escritor ingrese, de igual manera sucede con el escritor, se incrementa su contador cuando ingresa usar el recurso (codigoN5.png), y cuando terminen su usar el recurso, se decrementará su contador y así se culmina este proceso de poco a poco(codigoN6.png).
 
+8.REFERENCIAS/FUENTES:
+https://www2.infor.uva.es/~cllamas/concurr/pract98/sisos30/index.html#:~:text=LOS%20LECTORES%2DESCRITORES-,PROBLEMA%20DE%20LOS%20LECTORES%2DESCRITORES,DESCRIPCION%20DEL%20PROBLEMA%3A&text=Solo%20puede%20utilizar%20el%20recurso,el%20escritor%20ante%20el%20lector).
+
+https://prezi.com/llus9gxf4rsx/el-problema-de-los-lectores-y-escritores/
+
+https://www.youtube.com/watch?v=Ck-zAxDWNHg
+
+https://www.youtube.com/watch?v=HShMFlcAUJ0&t=1605s
+
+https://www2.infor.uva.es/~cllamas/concurr/pract98/sisos30/algorit.html
+
+https://www.youtube.com/watch?v=w7fEEtCte60&t=6s
+
+

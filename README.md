@@ -1,6 +1,7 @@
 PROBL LECTORES-ESCRITORES
 
 DESCRIPCIÓN:
+
 Existe un personaje llamado gestor que radica en este  lugar y es utilizado para poder llevar varios procesos a la vez, entre estos procesos se encuentran el de escribir y el de leer, solo se puede realizar uno de estos procesos a la vez, es decir, o se puede estar escribiendo o se puede estar leyendo, pero definitivamente no se puede hacer al mismo tiempo o simultáneamente, teniendo en cuenta que si no se lleva a cabo ninguno de esos procesos en esos momentos se le da preferencia al proceso de escritura sobre el proceso de lectura.
 PERSONAJES:
 -	Gestor: Es el encargado del proceso en general, como su mismo nombre lo dice gestiona o permite cuando puede ingresar un lector o cuando un escritor

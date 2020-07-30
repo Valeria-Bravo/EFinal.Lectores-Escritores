@@ -51,4 +51,6 @@ https://www2.infor.uva.es/~cllamas/concurr/pract98/sisos30/algorit.html
 
 https://www.youtube.com/watch?v=w7fEEtCte60&t=6s
 
+VIDEO DE YOUTUBE EXPLICATIVO: https://youtu.be/rwzoS3a3vMQ
+
 

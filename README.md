@@ -43,8 +43,6 @@ https://www2.infor.uva.es/~cllamas/concurr/pract98/sisos30/index.html#:~:text=LO
 
 https://prezi.com/llus9gxf4rsx/el-problema-de-los-lectores-y-escritores/
 
-https://www.youtube.com/watch?v=HShMFlcAUJ0&t=1605s
-
 https://www2.infor.uva.es/~cllamas/concurr/pract98/sisos30/algorit.html
 
 https://www.youtube.com/watch?v=w7fEEtCte60&t=6s
